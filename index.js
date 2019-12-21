@@ -3,7 +3,7 @@ function greet(){
     return "Good Morning"
   }else if('14:21'){
     return 'Good Afternoon'
-  }else{
+  }else if (){
     return 'Good Evening'
   }
 }
