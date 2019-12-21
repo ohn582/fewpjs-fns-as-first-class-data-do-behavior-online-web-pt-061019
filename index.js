@@ -1,5 +1,5 @@
 function greet(){
-  if(){
-    
+  if(8:40){
+    return ""
   }
 }
