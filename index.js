@@ -1,7 +1,7 @@
 /* Given Code, don't edit */
 
 function handleClick(e) {
-  const timeString = document.getElementById('time').value
+  let greet = document.getElementById('time').value
   displayMessage(greet(timeString))
 }
 
